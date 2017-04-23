@@ -1,6 +1,7 @@
 # Angular4QuickStart
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
+This is my first selfmade Angular 4 Project. Built with angular 4 and bootstrap 4, worked with external Web Services which is built with Asp.Net Core. I'm not a professional developer on Angular, I'm still learning both Angular and Javascript. Thanks for your understanding.
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
