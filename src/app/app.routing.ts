@@ -17,7 +17,7 @@ const appRoutes: Routes = [
     {
         path:'test',
         component:TestComponent
-    }
+    },
 ];
 
 export const routing: ModuleWithProviders = RouterModule.forRoot(appRoutes);

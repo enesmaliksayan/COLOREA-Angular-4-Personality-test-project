@@ -6,6 +6,7 @@ import { routing } from './app.routing';
 
 import { NgbModule} from '@ng-bootstrap/ng-bootstrap';
 import { Angular2FontAwesomeModule } from 'angular2-font-awesome/angular2-font-awesome';
+import { ChartsModule } from 'ng2-charts';
 
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
@@ -30,6 +31,7 @@ import { TestService } from './services/test.service';
     FormsModule,
     HttpModule,
     Angular2FontAwesomeModule,
+    ChartsModule,
     NgbModule.forRoot()
   ],
   providers: [
