@@ -1,0 +1,28 @@
+.footer {
+    background-color: rgb(0, 64, 64);
+    padding: 70px 0;
+}
+
+.copyright {
+    color: #fff;
+    margin-top: 100px;
+}
+
+.footer-single {
+    line-height: 24px;
+}
+
+.footer h6 {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.footer-single li,.footer-single li a {
+    line-height: 32px;
+    color:white;
+    visibility: visible;
+    display: block;
+}
